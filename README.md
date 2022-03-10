@@ -15,5 +15,33 @@ For non-members, you can interact through GitHub, GitLab, or OPF Git, using your
 
 ### Non-Mirrored Repository List ###
 
+- OpenPOWER Public Website : https://openpowerfoundation.org or https://openpower.foundation
+  https://git.openpower.foundation/website/openpower.foundation/
+- 
+
 
 ### Mirrored Repository List ###
+
+- LPC Peripheral
+  (_Maintained by LibreBMC SIG_)
+  https://git.openpower.foundation/librebmc/lpcperipheral
+  https://github.com/OpenPOWERFoundation/lpcperipheral
+  https://gitlab.com/openpowerfoundation/lpcperipheral
+
+- AC922 Interposer DC-SCM v1.0
+  (_Maintained by LibreBMC SIG_)
+  https://git.openpower.foundation/librebmc/ac922interposer
+  https://github.com/OpenPOWERFoundation/ac922interposer
+  https://gitlab.com/openpowerfoundation/ac922interposer
+  https://gitlab.com/librebmc/ac922interposer
+
+- A2O Core
+  (_Maintained by Core BoF_)
+
+
+- A2I Core
+  (_Maintained by Core BoF_)
+
+
+- A2P Core
+  (_Maintained by Core BoF_)
