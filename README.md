@@ -1,4 +1,4 @@
-== OpenPOWER Foundation - OpenPOWER General Information ==
+# OpenPOWER Foundation - OpenPOWER General Information #
 
 The OpenPOWER Foundation is a collaboration around Power ISA-based community.  
 The goal is to enable the ecosystem to build computing solutions with their own customization.  
