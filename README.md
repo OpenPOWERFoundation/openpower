@@ -21,26 +21,10 @@ For non-members, you can interact through GitHub, GitLab, or OPF Git, using your
 
 ### Mirrored Repository List ###
 
-- LPC Peripheral
-  (_Maintained by LibreBMC SIG_)  
-  https://git.openpower.foundation/librebmc/lpcperipheral  
-  https://github.com/OpenPOWERFoundation/lpcperipheral  
-  https://gitlab.com/openpowerfoundation/lpcperipheral  
-
-- AC922 Interposer DC-SCM v1.0
-  (_Maintained by LibreBMC SIG_)  
-  https://git.openpower.foundation/librebmc/ac922interposer  
-  https://github.com/OpenPOWERFoundation/ac922interposer  
-  https://gitlab.com/openpowerfoundation/ac922interposer  
-  https://gitlab.com/librebmc/ac922interposer  
-
-- A2O Core
-  (_Maintained by Core BoF_)  
-
-
-- A2I Core
-  (_Maintained by Core BoF_)  
-
-
-- A2P Core
-  (_Maintained by Core BoF_)  
+| Repository Name | OPF Git | GitHub | GitLab | Maintained |
+| --------------- | ------- | ------ | ------ | ---------- |
+| LPC Peripheral | https://git.openpower.foundation/librebmc/lpcperipheral | https://github.com/OpenPOWERFoundation/lpcperipheral | https://gitlab.com/openpowerfoundation/lpcperipheral | LibreBMC SIG |
+| AC922 Interposer DC-SCM v1.0 | https://git.openpower.foundation/librebmc/ac922interposer | https://github.com/OpenPOWERFoundation/ac922interposer | https://gitlab.com/openpowerfoundation/ac922interposer https://gitlab.com/librebmc/ac922interposer | LibreBMC SIG |
+| A2O Core | | | | Core BoF |
+| A2I Core | | | | Core BoF |
+| A2P Core | | | | Core BoF |
