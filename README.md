@@ -13,18 +13,33 @@ For members, please use your OPF Passport to log into https://git.openpower.foun
 For non-members, you can interact through GitHub, GitLab, or OPF Git, using your existing credentials.  
 
 
-### Non-Mirrored Repository List ###
+## Non-Mirrored Repository List ##
 
 - OpenPOWER Public Website (_https://openpowerfoundation.org_ or _https://openpower.foundation_)  
   https://git.openpower.foundation/website/openpower.foundation/
 
 
-### Mirrored Repository List ###
+## Mirrored Repository List ##
 
-| Repository Name | OPF Git | GitHub | GitLab | Maintained |
-| --------------- | ------- | ------ | ------ | ---------- |
-| LPC Peripheral | https://git.openpower.foundation/librebmc/lpcperipheral | https://github.com/OpenPOWERFoundation/lpcperipheral | https://gitlab.com/openpowerfoundation/lpcperipheral | LibreBMC SIG |
-| AC922 Interposer DC-SCM v1.0 | https://git.openpower.foundation/librebmc/ac922interposer | https://github.com/OpenPOWERFoundation/ac922interposer | https://gitlab.com/openpowerfoundation/ac922interposer https://gitlab.com/librebmc/ac922interposer | LibreBMC SIG |
-| A2O Core | | | | Core BoF |
-| A2I Core | | | | Core BoF |
-| A2P Core | | | | Core BoF |
+### LibreBMC SIG ###
+
+- __LPC Peripheral__ : This is an LPC peripheral that implements LPC IO and FW cycles so that it can boot a host like a POWER9. This peripheral would typically sit inside a BMC SoC.
+  https://git.openpower.foundation/librebmc/lpcperipheral
+  https://github.com/OpenPOWERFoundation/lpcperipheral
+  https://gitlab.com/openpowerfoundation/lpcperipheral
+
+- __AC922 Interposer DC-SCM v1.0__ : 
+  https://git.openpower.foundation/librebmc/ac922interposer
+  https://github.com/OpenPOWERFoundation/ac922interposer
+  https://gitlab.com/openpowerfoundation/ac922interposer
+  https://gitlab.com/librebmc/ac922interposer
+
+### Core BoF ###
+
+- __A2O Core__ : The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue
+  https://git.openpower.foundation/cores/a2o
+
+- __A2I Core__ : The A2I core was used as the general purpose processor for BlueGene/Q, the successor to BlueGene/L and BlueGene/P supercomputers
+  https://git.openpower.foundation/cores/a2i
+
+- A2P Core : 
