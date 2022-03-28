@@ -50,10 +50,13 @@ For non-members, you can interact through GitHub, GitLab, or OPF Git, using your
 
 - __A2O Core__ : The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue  
   https://git.openpower.foundation/cores/a2o  
-  https://github.com/OpenPOWERFoundation/a2p  
+  https://github.com/OpenPOWERFoundation/a20  
+  https://gitlab.com/openpowerfoundation/a20  
 
 - __A2I Core__ : The A2I core was used as the general purpose processor for BlueGene/Q, the successor to BlueGene/L and BlueGene/P supercomputers  
   https://git.openpower.foundation/cores/a2i  
+  https://github.com/OpenPOWERFoundation/a2i  
+  https://gitlab.com/openpowerfoundation/a2i  
 
 - __A2P Core__ : An experimental small core based on VexRiscv, written in Scala  
   https://git.openpower.foundation/cores/a2p  
