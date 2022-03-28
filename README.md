@@ -62,3 +62,9 @@ For non-members, you can interact through GitHub, GitLab, or OPF Git, using your
   https://git.openpower.foundation/cores/a2p  
   https://github.com/OpenPOWERFoundation/a2p  
   https://gitlab.com/openpowerfoundation/a2p  
+
+
+# LICENSE #
+
+This list is under the [Creative Commons CC-BY-4.0](LICENSE) License
+
